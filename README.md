@@ -1,4 +1,6 @@
-# Novira-responsive-website-about-computer-viruses--bachelor-s-project
+# Novira
+Fully responsive website about computer viruses created with use of HTML5, CSS3, JavaScript and Bootstrap.
+Bachelor's project.
 
-Project can be found at:
+Website can be found at:
 http://akacja.wzks.uj.edu.pl/~15_gimza/novira/
